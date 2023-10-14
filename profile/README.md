@@ -29,3 +29,7 @@ This repository is [MIT licensed](./LICENSE).
 Base images are subject to their respective open source license(s):
 
 - [Debian](https://www.debian.org/legal/licenses/)
+
+## 📸 Attributions
+
+- Organization Logo is a modified version of [Free Box Icon in Flat Style](https://iconscout.com/free-icon/box-package-parcels-logistic-delivery-packed-shipping-11) by [Mohit Gandhi](https://iconscout.com/contributors/mcgandhi61)
