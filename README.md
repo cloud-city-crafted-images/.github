@@ -1,6 +1,6 @@
 # Cloud City Crafted GitHub Actions Container Images
 
-This repository contains the configuration and scripts needed to create container images for Cloud City Crafted continuous integration (CI) and runtime environments.
+This repository contains the configuration and scripts needed to create container images to emulate GitHub Actions in Cloud City Crafted continuous integration (CI) and runtime environments.
 
 ## ✨ Quick Start
 
