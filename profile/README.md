@@ -1,4 +1,4 @@
-# Cloud City Crafted GitHub Actions Container Images
+# Cloud City Crafted Container Images
 
 This repository contains the configuration and scripts needed to create container images for Cloud City Crafted continuous integration (CI) and runtime environments.
 
@@ -20,7 +20,7 @@ And ta-da 🎉! You're ready to run Cloud City Crafted GitHub Actions images loc
 
 | Image                | Available Tags | Included Packages                                            |
 | -------------------- | -------------- | ------------------------------------------------------------ |
-| github-actions-cache | `latest`, `v1` | [GitHub Actions Cache Packages](./cache/README.md#-packages) |
+| github-actions-cache | `latest`, `v1` | [GitHub Actions Cache Packages](https://github.com/cloud-city-crafted-images/github-actions/tree/main/cache#-packages) |
 
 ## 🪪 License
 
