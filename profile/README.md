@@ -30,6 +30,7 @@ This repository is [MIT licensed](./LICENSE).
 Base images are subject to their respective open source license(s):
 
 - [Debian](https://www.debian.org/legal/licenses/)
+- [Ubuntu](https://ubuntu.com/legal/open-source-licences)
 
 ## 📸 Attributions
 
